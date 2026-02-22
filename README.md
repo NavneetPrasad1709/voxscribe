@@ -8,7 +8,7 @@ It supports speaker detection, transcript downloads, and multiple export options
 
 ## 🚀 Live Demo
 
-🔗 Live App: (https://voxscribe-ten.vercel.app)
+🔗 Live App: https://voxscribe-ten.vercel.app
 
 ---
 
